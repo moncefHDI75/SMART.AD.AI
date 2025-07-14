@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "générateur de pub",
+			"path": "../générateur de pub"
+		},
+		{
+			"name": "SMART.AD.AI",
+			"path": "."
+		},
+		{
+			"name": "asset",
+			"path": "../asset"
+		}
+	],
+	"settings": {}
+}

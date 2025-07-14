@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SMART.AD.AI",
+			"path": "."
+		},
+		{
+			"name": "asset",
+			"path": "../asset"
+		}
+	],
+	"settings": {}
+}
