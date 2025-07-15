@@ -1,0 +1,16 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+
+git add requirements.txt
+git commit -m "Ajout requirements.txt"
+git push
+
+streamlit
+pandas
+streamlit
+requests
+matplotlib
+pandas
+
